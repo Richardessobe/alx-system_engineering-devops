@@ -1,1 +1,1 @@
-This script move a file to the directory /tmp
+This script show how to delete a file from a folder belonging to /tmp directory
