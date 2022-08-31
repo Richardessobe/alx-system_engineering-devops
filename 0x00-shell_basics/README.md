@@ -1,1 +1,1 @@
-This scrpit displayscurrent directory contents in a long format
+This script displays current directory contents, including hidden files
