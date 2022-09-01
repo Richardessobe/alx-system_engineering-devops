@@ -1,1 +1,1 @@
-This script will list all the files in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+This script script that prints the type of the file named iamafile and the file will be in /tmp
