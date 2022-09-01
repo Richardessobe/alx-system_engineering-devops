@@ -1,1 +1,1 @@
-This script will delete a directory inside the /tmp directory
+This script changes the working directory to the previous one
