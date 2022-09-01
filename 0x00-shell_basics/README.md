@@ -1,1 +1,1 @@
-This script show how to delete a file from a folder belonging to /tmp directory
+This script will delete a directory inside the /tmp directory
